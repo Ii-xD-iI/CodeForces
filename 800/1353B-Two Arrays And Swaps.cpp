@@ -38,5 +38,5 @@ int main(){
 /*
 4:23 PM
 9/14/2020 m/dd/yy
-reversing b was kinda genious
+reversing b was kinda geniosity
 */
