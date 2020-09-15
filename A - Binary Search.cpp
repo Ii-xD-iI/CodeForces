@@ -25,7 +25,7 @@ int main () {
              if(a[mid]==q[i]) {ye = true;break;}
              elif(a[mid]<q[i]) l = mid+1;
              elif(a[mid]>q[i]) r = mid-1;
-		    }
+	}
          cout << (ye?"YES":"NO") << endl;
      }
     return 0;
