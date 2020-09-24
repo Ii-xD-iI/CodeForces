@@ -24,7 +24,7 @@ int main(){
 	    	if(i=='0')cnt0++;
 	    	elif(i=='1')cnt1++;
 	    }
-      cout << (min(cnt0, cnt1) % 2 != 0 || !(cnt0 == 0|| cnt1 == 0) ? "DA" : "NET") << '\n';
+            cout << (min(cnt0, cnt1) % 2 != 0 || !(cnt0 == 0|| cnt1 == 0) ? "DA" : "NET") << '\n';
 	}
 	return 0;
 }
