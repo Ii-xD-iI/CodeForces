@@ -31,9 +31,9 @@ int main(){
 void solve(int &x, vector<int> &a){
     sort(all(a));
     int sum=1;
-    int i{};
-    for(;i<x;i++){
-        if(a[i]<=i+1) sum = i+2;
+    int i{};//can start i from 1 so i can sum = i+1
+    for(;i<x;i++){//sum is also kinda useless 
+        if(a[i]<=i+1) sum = i+2;//well nvm lel
     }
     cout << sum << endl;
 }
