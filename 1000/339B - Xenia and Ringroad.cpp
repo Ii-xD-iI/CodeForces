@@ -31,6 +31,13 @@ int main(){
     cout << cnt << endl;
     return 0;
 }
+/*
+used 1st test case 
+wrote the acc answer 
+think about formula 
+regret
+fix overflow
+*/
 
 
 
