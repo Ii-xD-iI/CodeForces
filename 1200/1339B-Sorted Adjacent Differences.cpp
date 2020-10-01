@@ -48,4 +48,6 @@ if its even i was couting last element at last
 but 
 hab to cout middle first 
 oof Test 4 
+
+5 WA on test 4 o boy
 */
